@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HilsPlanet
-- 👀 I’m interested in DevOps and SoftWare Architecture
+- 👀 I’m interested in DevOps and Infrastructure Engineer/Architecture
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on projects that would enhance my skills
 - 📫 Reach me @ hils_dev@outlook.com
