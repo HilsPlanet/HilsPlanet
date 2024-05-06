@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HilsPlanet
-- 👀 I’m interested in DevOps Engineer
+- 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently an Infrastructure Engineer/Architect
 - 💞️ I’m looking to collaborate on projects that would enhance my skills
 - 📫 Reach me @ hils_dev@outlook.com
